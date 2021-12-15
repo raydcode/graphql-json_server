@@ -26,7 +26,7 @@ $ npm run json:server
 
 ```bash
 $ npm run dev:server
-
+```
 
 # What is GraphQl ?
 
