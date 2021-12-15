@@ -29,6 +29,7 @@ follow the instructions
 # Simple Query Vs Payload
 
 - Query:
+
 ```
 {
 user(id:"33"){
@@ -37,8 +38,10 @@ email
 }
 }
 ```
+
 - Payload:
 
+```
 {
 "user":{
 "id": "33",
@@ -46,11 +49,13 @@ email
 "email": "kathirkarthik2602@gmail.com"
  }
 }
+```
 
 - Multiple Resources in Query vs Payload:
 
 - Query:
 
+```
 {
 user(id:"33"){
 name,
@@ -60,9 +65,11 @@ title
 }
 }
 }
+```
 
 - Payload:
 
+```
 {
 "user":{
 "id": "33",
@@ -73,20 +80,25 @@ title
 {"title":"Post2"}
 ]}
 }
+```
 
 - GraphQl Types
 
 \*\* GraphQL API's are organized in terms of types and fileds
 
+```
 Type Query {
 user:User
 }
+```
 
+```
 Type User {
 name:String
 age:int
 friends:[User]
 }
+```
 
 # GraphiQl Tool
 
