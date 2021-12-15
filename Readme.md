@@ -9,7 +9,7 @@
 1. node
 2. git
 
-follow the instructions
+* Follow the instructions
 
 1. clone the repository
 2. npm install
