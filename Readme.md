@@ -14,19 +14,19 @@
 -Install Dependencies
 
 ```bash
-$ npm install
+npm install
 ```
 
 -Run JSON-Server (Port 3000)
 
 ```bash
-$ npm run json:server
+ npm run json:server
 ```
 
 -Run Server (Port 5000)
 
 ```bash
-$ npm run dev:server
+ npm run dev:server
 ```
 
 # What is GraphQL ?
