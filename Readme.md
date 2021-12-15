@@ -29,7 +29,7 @@ $ npm run json:server
 $ npm run dev:server
 ```
 
-# What is GraphQl ?
+# What is GraphQL ?
 
 1. Application layer query language
 2. Open sourced by facebook in 2015
