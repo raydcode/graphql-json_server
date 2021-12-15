@@ -1,6 +1,6 @@
 #############################################################################################
 
-# GraphQl Server
+# GraphQL Server
 
 #############################################################################################
 
@@ -93,7 +93,7 @@ title
 }
 ```
 
-- GraphQl Types
+- GraphQL Types
 
 \*\* GraphQL API's are organized in terms of types and fileds
 
@@ -111,7 +111,7 @@ friends:[User]
 }
 ```
 
-# GraphiQl Tool
+# GraphiQL Tool
 
 1. Graphical intractive GraphQl IDE
 2. Runs in the browser
