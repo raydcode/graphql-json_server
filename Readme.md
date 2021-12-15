@@ -29,14 +29,14 @@ follow the instructions
 # Simple Query Vs Payload
 
 - Query:
-
+```
 {
 user(id:"33"){
 name,
 email
 }
 }
-
+```
 - Payload:
 
 {
