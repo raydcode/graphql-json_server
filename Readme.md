@@ -9,7 +9,7 @@
 1. node
 2. git
 
-* Follow the instructions
+- Follow the instructions
 
 1. clone the repository
 2. npm install
@@ -41,13 +41,13 @@ email
 
 - Payload:
 
-```
+```json
 {
-"user":{
-"id": "33",
-"name": "kathir karthik",
-"email": "kathirkarthik2602@gmail.com"
- }
+  "user": {
+    "id": "33",
+    "name": "kathir karthik",
+    "email": "kathirkarthik2602@gmail.com"
+  }
 }
 ```
 
@@ -69,7 +69,7 @@ title
 
 - Payload:
 
-```
+```json
 {
 "user":{
 "id": "33",
