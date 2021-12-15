@@ -10,13 +10,23 @@
 2. git
 
 - Follow the instructions
+-Install Dependencies
 
-1. clone the repository
-2. npm install
-3. npm run dev:server // to run the graphql server
-4. npm run json:server // to run the Json server (in new terminal)
-5. localhost:5000/graphql // graphql playground
-6. localhost:3000 // json server
+```bash
+$ npm install
+```
+
+-Run JSON-Server (Port 3000)
+
+```bash
+$ npm run json:server
+```
+
+-Run Server (Port 5000)
+
+```bash
+$ npm run dev:server
+
 
 # What is GraphQl ?
 
